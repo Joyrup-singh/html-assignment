@@ -1,0 +1,2 @@
+ Q5. What is doctype decelaration in html?
+Ans: It is an information to the web browser about the document type.
